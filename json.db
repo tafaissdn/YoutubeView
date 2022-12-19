@@ -1,9 +1,13 @@
 {
-	"open": {
-		"link": ["https://www.youtube.com/watch?v=bSMZknDI6bg",
-			"https://www.youtube.com/watch?v=bSMZknDI6bg",
-			"https://www.youtube.com/watch?v=bSMZknDI6bg",
-			"https://www.youtube.com/watch?v=bSMZknDI6bg"
-		]
-	}
+	"openin": [{
+			"link": "https://www.youtube.com/watch?v=lttUGHte4mY&t=293s"
+		},
+		{
+			"link": "https://www.youtube.com/watch?v=lttUGHte4mY&t=293s"
+		},
+		{
+			"link": "https://www.youtube.com/watch?v=lttUGHte4mY&t=293s"
+		},
+		{}
+	]
 }
